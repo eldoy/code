@@ -1,0 +1,20 @@
+{
+  "name": "endo",
+  "version": "0.1.0",
+  "description": "NodeJS toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:include && npm run test:global",
+    "test:include": "node tests/include.test.js",
+    "test:global": "node -r './index.js' tests/global.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eldoy/endo"
+  },
+  "author": "Vidar Eldøy <vidar@eldoy.com>",
+  "license": "MIT",
+  "dependencies": {
+    "extras": "^0.10.6"
+  }
+}

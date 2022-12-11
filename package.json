@@ -1,6 +1,6 @@
 {
   "name": "eldoy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NodeJS toolkit",
   "main": "index.js",
   "scripts": {

@@ -1,3 +1,3 @@
 const extras = require('extras')
-global.Code = extras
+global.E = extras
 module.exports = extras

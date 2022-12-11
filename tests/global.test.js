@@ -1,2 +1,2 @@
 const assert = require('assert')
-assert.ok(typeof Endo == 'object')
+assert.ok(typeof Code == 'object')

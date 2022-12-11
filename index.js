@@ -1,3 +1,3 @@
 const extras = require('extras')
-global.Endo = extras
+global.Code = extras
 module.exports = extras
